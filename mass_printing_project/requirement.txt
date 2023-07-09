@@ -1,0 +1,8 @@
+1.In this project,I assumed 2 users as Admin and EndUser.
+
+2.I have used custom permissions to give permissions and check whether it is authenticated or not.
+
+3.For the data extraction part,
+library is required as I havent worked on web scrapping but I know the concept onl web scrapping is required and for that beatiful soup y.
+
+4.For the pdf creation part, ReportLab open-source PDF library are required.also django CLI is there.but,till now,I havent worked on pdf creation
